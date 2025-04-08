@@ -4,7 +4,7 @@
 - 👀 I’m interested in system design, cloud architecture, and cutting-edge web technologies  
 - 🌱 I’m currently deep-diving into DevOps, microservices, and advanced JavaScript frameworks  
 - 💞️ I’m looking to collaborate on innovative projects that solve real-world problems  
-- 📫 Reach me at: [vgnesh.dev@gmail.com](mailto:vgnesh.dev@gmail.com)  
+- 📫 Reach me at: [vgnesh.dev@gmail.com](mailto:vgneztech.@gmail.com)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love turning complex ideas into simple, elegant solutions — and I never say no to a good cup of coffee!
 
