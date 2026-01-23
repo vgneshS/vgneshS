@@ -4,17 +4,6 @@
 Building scalable systems and application platforms<br><br>
 Designing cloud-ready backend architectures<br><br>
 Backend development with Java, Spring Boot, and Microservices<br><br>
-👥 I’m looking to collaborate on<br><br>
-Platform engineering & SaaS backends<br><br>
-AI-powered and data-driven applications<br><br>
-🤝 I’m looking for help with<br><br>
-AI/ML integration in backend systems<br><br>
-Scaling and monetizing real-world platforms<br><br>
-🌱 I’m currently learning<br><br>
-Advanced system design & clean architecture<br><br>
-💬 Ask me about<br><br>
-Spring Boot, microservices, and system design<br><br>
-⚡ Fun fact<br><br>
 I enjoy breaking systems and rebuilding them better 💻⚙️
 
 # 💻 Tech Stack:
