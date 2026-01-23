@@ -3,7 +3,7 @@
 📌 I’m currently working on<br><br>
 Building scalable systems and application platforms<br><br>
 Designing cloud-ready backend architectures<br><br>
-Backend development with Java, Spring Boot, and Microservices<br><br>
+Backend development with .Net and Java, Spring Boot, and Microservices<br><br>
 I enjoy breaking systems and rebuilding them better 💻⚙️
 
 # 💻 Tech Stack:
