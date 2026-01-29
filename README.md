@@ -1,6 +1,6 @@
-💫 About Me:
+ About Me:
 
-📌 I’m currently working on<br><br>
+ I’m currently working on<br><br>
 Building scalable systems and application platforms<br><br>
 Designing cloud-ready backend architectures<br><br>
 Backend development with .Net and Java, Spring Boot, and Microservices<br><br>
